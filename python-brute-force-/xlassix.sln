@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28621.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "xlassix", "xlassix\xlassix.pyproj", "{C3E95673-ABCE-47BB-B020-C3FBEC955B90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3E95673-ABCE-47BB-B020-C3FBEC955B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E95673-ABCE-47BB-B020-C3FBEC955B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14FBE299-A0FE-4F15-B504-4F245DE88DB1}
+	EndGlobalSection
+EndGlobal
