@@ -1,5 +1,6 @@
 ### python-brute-force-
 thats the iron python version fill free to make modification(s)
+one of my best work on a failed technology :( (ironpython)
 ### REQUIREMENTS
 1. **[Visual studio](https://visualstudio.microsoft.com/downloads/)**
 2. **On install add python development**
